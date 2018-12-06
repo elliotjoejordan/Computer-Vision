@@ -8,3 +8,5 @@ The variable 'directory_to_cycle' can be used to select which images will be use
 Multiple SVMs are included, and can be changed by altering the parameter in the params.py file.
 
 The training data set has been omitted due to size constraints.
+
+The files provided combine the work of Professor Toby Breckon with additional code from Elliot Jordan to create a HOG detector simulation.
